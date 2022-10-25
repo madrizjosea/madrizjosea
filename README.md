@@ -1,4 +1,3 @@
-![MasterHead](./myLinkedInBanner.png)
 <h1 align="center">Hi 👋, I'm José Alejandro</h1>
 <h3 align="center">💻 Full Stack Web Developer</h3>
 <img align="right" width="400" src="./coder1.gif" alt="coding"/>
@@ -15,7 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+LinkedIn
 <a href="https://linkedin.com/in/madrizjosea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madrizjosea" height="30" width="40" /></a>
+LeetCode
 <a href="https://www.leetcode.com/madrizjosea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madrizjosea" height="30" width="40" /></a>
 </p>
 
