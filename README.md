@@ -2,8 +2,6 @@
 <h3 align="center">💻 Full Stack Web Developer</h3>
 <img align="right" width="400" src="./coder1.gif" alt="coding"/>
 
-- 🌱 I’m currently learning **TypeScript - Angular - MongoDB**
-
 - 💬 Ask me about **React - Express - JavaScript - HTML**
 
 - 📫 Reach me at **mmadrizjose@gmail.com**
