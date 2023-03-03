@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Web Developer</h3>
 <img align="right" width="400" src="./coder1.gif" alt="coding"/>
 
-- 💬 Ask me about **React - Express - JavaScript - HTML**
+- 💬 Ask me about **React - Redux - Node - Express - PostgreSQL**
 
 - 📫 Reach me at **mmadrizjose@gmail.com**
 
